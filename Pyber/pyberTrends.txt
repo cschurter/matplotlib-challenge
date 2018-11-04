@@ -1,0 +1,4 @@
+1. The more drivers that are available, the lower the average fare is as shown by the Urban data on the scatter plot.
+2. The number of rides is proportional to the city size.
+3. The drivers make less money per ride in urban areas due to competition from having more drivers in the area but they can probably make more money by providing more rides.
+4. The company is better off focusing its business in urban areas where there is more demand for ride sharing.
